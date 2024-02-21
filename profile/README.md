@@ -10,7 +10,7 @@
 <blockquote>
   <img src="https://github.com/typst-gost/.github/assets/74786850/b83cce05-7b59-4ba6-a528-a724ffb481cb" alt="Логотип Typst" height="32">
 
-  ***typst*** - легкий язык разметки и open-source компилятор для него, прощ говоря, аналог $LaTeX$, который превращает комплексный документ в набор `plain-text` файлов.
+  ***typst*** - легкий язык разметки и open-source компилятор для него, проще говоря, аналог $LaTeX$, который превращает комплексный документ в набор `plain-text` файлов.
 
   [Официальный сайт](https://typst.app)
 </blockquote>
