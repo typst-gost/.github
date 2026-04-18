@@ -1,4 +1,4 @@
-<img width="1200" height="400" alt="Карточка" src="https://github.com/user-attachments/assets/b38616d6-51cd-4779-ab14-e50a40c80f24" />
+<img width="1200" height="630" alt="Карточка" src="https://github.com/user-attachments/assets/b38616d6-51cd-4779-ab14-e50a40c80f24" />
 
 <p align="center">Мы разрабатываем modern-g7-32, это шаблон для оформления документов согласно стандартам ГОСТ 7.32-2017 на Typst.
   Вы можете использовать наше решение для того, чтобы быстрее и качественнее оформлять свои работы.</p>
